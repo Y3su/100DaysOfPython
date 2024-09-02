@@ -58,5 +58,3 @@ if choice_input.isdigit():
         print("Invalid input. Please enter 0, 1, or 2")
 else:
     print("Invalid input. Please enter a number")
-
-#
